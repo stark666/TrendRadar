@@ -2,23 +2,6 @@
 消费贷
 信贷广告
 
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
 google
 gemini
 deepmind
@@ -27,27 +10,7 @@ chatgpt
 openai
 sora
 
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
-
-国产
-中国
-
-
-芯片
-光刻机
-
-科技
